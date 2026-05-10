@@ -220,3 +220,8 @@ This setup creates:
 ✔ Energy analytics
 ✔ Smart home controls
 ✔ Professional operations center design
+
+
+ua security-status --esm-apps
+
+http://homeassistant.local:8123/config/automation/edit/1778408121502
